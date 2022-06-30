@@ -1,0 +1,56 @@
+*{
+  margin:0;
+  padding:0;
+  font-family: sans-serif;
+}
+body{
+  background-image: url("img_lights.jpg") ;
+  background-position: center;
+  background-size: cover;
+ 
+
+}
+
+.container-fluid{
+
+  background: linear-gradient(rgb(37, 21, 177),rgb(60, 207, 84)),url("images/R.jpg");
+ background-size: cover;
+ background-position: center;
+}
+.container{
+  background-image: url("images/img_lights.jpg") ;
+  background-position: center;
+  background-size: cover;
+ 
+
+}
+.logo{
+  font-weight: 200;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 40px;
+  cursor: pointer;
+}
+ul{
+  margin:0px;
+  padding:0px;
+}
+li{
+  list-style: none;
+  display: inline-block; 
+  margin:0;
+  align-items: float-left;
+  padding:20px;
+  position: relative;
+}
+a{
+  color:white;
+}
+.card-body{
+  background-color: rgb(177, 174, 169);
+  color:rgb(216, 0, 126);
+}
+p{
+  margin-top:20px auto;
+  line-height:25px;
+
+}
